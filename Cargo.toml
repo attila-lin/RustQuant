@@ -111,7 +111,7 @@ num = { version = "0.4.1", features = ["rand"] }
 time = { version = "0.3.34", features = ["macros"] }
 
 # https://docs.rs/polars/latest/polars/
-polars = { version = "0.47.1", features = ["docs-selection"] }
+polars = { version = "0.48", features = ["docs-selection"] }
 
 # https://docs.rs/serde/latest/serde/
 serde = { version = "1.0.213", features = ["derive"] }
